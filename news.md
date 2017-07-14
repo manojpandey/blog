@@ -45,3 +45,17 @@ permalink: /news/
     - I did a small trip to Darjeeling with my ICPC team (_[pics](#)_)
     - My team competed at ACM-ICPC 2017 regionals at Kolkata
     - I'm on a winter break for a couple of days (yay !!)
+
+- November 2016
+    - I spoke at [PyCon Finland,](http://fi.pycon.org/2016/#talks) and spent some time in Helsinki. [[Videos](https://www.youtube.com/playlist?list=PLIL7CF2iKuwiJN2sN6kQP4Rbn71DUiMUB)]
+
+- October 2016
+    - I founded [PyData Delhi](https://www.meetup.com/PyDataDelhi), and will be actively maintaining this community around Delhi/NCR.
+
+- September 2016
+    - Organized dev sprints at PyCon India 2016
+    - I just came back from UK. Gave a talk at PyCon UK in Cardiff, Wales. Had so many _[experiences](#)_ This was my first ever Python conference (=D)
+    - Got accepted to Hack Harvard, a hackathon at Harvard university
+
+- August 2016
+    -
