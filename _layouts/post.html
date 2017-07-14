@@ -19,6 +19,10 @@ layout: default
     {{ content }}
   </div>
 
+  <div style="text-align: center">~~•~~</div>
+
+  {% include social_buttons.html %}
+  {% include newsletter.html %}
   {% if site.disqus_shortname %}
     {% include disqus_comments.html %}
   {% endif %}
